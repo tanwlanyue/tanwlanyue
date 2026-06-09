@@ -6,5 +6,5 @@
 
 ~~SQL/Go/Shell/Scala/XML/JSON/YAML~~
 
-Claude/‌Codex/Gemini/DeepSeek/GLM/Kimi
+GPT/Claude/GLM/DeepSeek/Gemini/Kimi
 
